@@ -182,7 +182,7 @@ const cargarDetallePelicula2 = (idPelicula) => {
 
                             <div class="col-lg-9 col-12">
                                 <div class="custom-block-info">
-                                    <div class="custom-block-top d-flex mb-1">
+                                    <div class="mb-1 ms-auto">
                                         
                                         <small class="me-4 h5">
                                             <a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">
